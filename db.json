@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Adam Mikan",
+      "email": "adam123@gmail.com",
+      "contact": "+2782345689291",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Malik Altoermann",
+      "email": "altomann@gmail.com",
+      "contact": "+8723134513894"
+    },
+    {
+      "id": 3,
+      "name": "Priya Gnodra",
+      "email": "gnora@gmail.com",
+      "contact": "+3423568791237"
+    },
+    {
+      "name": "moke moke",
+      "email": "mloke@h.com",
+      "contact": "+5346765662129",
+      "id": 4
+    }
+  ]
+}
